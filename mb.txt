@@ -53,3 +53,7 @@ git remote add origin https://github.com/ducanh6629417/hocgit.git
 git add .
 git commit -m "up"
 git push origin master
+
+keo 1 nhanh ve
+git fetch origin
+git checkout -b ten_nhanh origin/ten_nhanh
