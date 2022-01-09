@@ -6,7 +6,8 @@ xung đột khi 2 nhánh cùng sửa 1 file
      git add .
     git commit
 }
-
+Local
+Remote
 
 // khởi tạo
 git init
@@ -41,3 +42,6 @@ git merge tên_nhánh
 
 xóa 1 nhánh
 git branch -d tên_nhánh
+
+đẩy code lên git
+git push đường_dẫn tên_nhánh
