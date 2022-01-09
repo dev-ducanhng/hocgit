@@ -1,6 +1,6 @@
 Repository (Repo)
 branch
-conflick
+conflict
 
 
 // khởi tạo
