@@ -57,3 +57,6 @@ git push origin master
 keo 1 nhanh ve
 git fetch origin
 git checkout -b ten_nhanh origin/ten_nhanh
+
+day code tu nhanh len master
+git push
