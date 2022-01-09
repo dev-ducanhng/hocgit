@@ -1,6 +1,19 @@
 Repository (Repo)
 
+// khởi tạo
 git init
+xem trạng thái
 git status
-git add
-git resetgit 
+chuẩn bị các file để commit
+git add . / git add "tên file cần tải lên"
+lấy các file đã chuẩn bị commit ra
+git reset
+commit các file lên
+git -m "Nội dung"
+
+git log
+
+git log --oneline
+
+git checkout 
+git branch
