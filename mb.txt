@@ -1,4 +1,7 @@
 Repository (Repo)
+branch
+conflick
+
 
 // khởi tạo
 git init
