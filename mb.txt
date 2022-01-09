@@ -43,5 +43,13 @@ git merge tên_nhánh
 xóa 1 nhánh
 git branch -d tên_nhánh
 
+
+
+đặt tên đường dẫn đến git
+
+git remote add origin https://github.com/ducanh6629417/hocgit.git
+
 đẩy code lên git
-git push đường_dẫn tên_nhánh
+git add .
+git commit -m "up"
+git push origin master
