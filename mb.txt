@@ -16,7 +16,7 @@ lấy các file đã chuẩn bị commit ra
 git reset
 
 commit các file lên
-git -m "Nội dung"
+git commit -m "Nội dung"
 
 Xem các lần đã commit (bấm q để out)
 git log
