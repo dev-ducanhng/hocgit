@@ -1,6 +1,11 @@
 Repository (Repo)
 branch
 conflict
+xung đột khi 2 nhánh cùng sửa 1 file
+ {
+     git add .
+    git commit
+}
 
 
 // khởi tạo
