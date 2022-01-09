@@ -27,3 +27,9 @@ chuyển đến nhánh
 git checkout tên_nhánh
 
 git branch
+
+tổng hợp 1 nhánh về
+git merge tên_nhánh
+
+xóa 1 nhánh
+git branch -d tên_nhánh
